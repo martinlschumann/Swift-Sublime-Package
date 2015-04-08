@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-subscript(${1:parameters}) -> ${2:ReturnType} {
+subscript(${1:parameters}) -> ${2:ReturnType}
+{
 	$3
 }
 ]]></content>

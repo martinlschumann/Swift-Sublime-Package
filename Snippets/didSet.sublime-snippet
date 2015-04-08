@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-didSet {
+didSet
+{
 	$1
 }
 ]]></content>

@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-set {
+set
+{
 	$1
 }
 ]]></content>

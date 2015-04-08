@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-protocol ${1:name} {
+protocol ${1:name}
+{
 	$2
 }
 ]]></content>

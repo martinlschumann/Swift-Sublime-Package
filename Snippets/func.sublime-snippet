@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-func ${1:name}(${2:arguments}) -> ${3:ReturnType} {
+func ${1:name}(${2:arguments}) -> ${3:ReturnType}
+{
 	$4
 }
 ]]></content>

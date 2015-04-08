@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-operator ${1:type} ${2:name} {
+operator ${1:type} ${2:name}
+{
 	$3
 }
 ]]></content>
